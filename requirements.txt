@@ -1,4 +1,5 @@
 streamlit
-scikit-learn
+scikit-learn==1.2.2
 xgboost
-sklearn-pandas
+sklearn-pandas=2.2.0
+pandas==1.5.3
